@@ -1,0 +1,16 @@
+{
+  "name": "unit-converter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node start.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
